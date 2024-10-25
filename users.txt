@@ -1,0 +1,5 @@
+SJ adminpass admin
+soumya 123 customer
+khushi kp123 employee
+sakina sk02 manager
+kuhuk 200507 managerÿÿÿÿ
